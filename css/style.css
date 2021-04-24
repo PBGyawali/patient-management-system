@@ -1,0 +1,88 @@
+body {
+    overflow-x: hidden;
+    padding-top: 75px;
+}
+
+
+
+
+
+.bg-purple
+{
+	background-color: #1614926d;
+}
+
+.bg-dark {
+    background-color: rgb(39, 39, 39)!important;
+    background-color: #1411b59f!important;
+    background-color: rgb(146, 140, 140)!important;
+    background-color: rgb(39, 39, 39)!important;
+    
+}
+
+
+
+#sidebar li
+{
+    border-top: 1px solid #f9f9f9;
+    
+}
+#sidebar li:first-child
+{
+    border-top: 1px solid #f9f9f9;
+}
+#sidebar li:last-child
+{
+    border-bottom: 1px solid #f9f9f9;
+}
+
+
+
+#sidebar li a:hover,.dropdown-btn:hover,.active:hover
+{background-color: rgb(146, 140, 140);
+    background-color: rgb(218, 119, 5)!important;
+	color: white;
+}
+
+.active
+{
+    background-color: green!important;
+	color: white!important;
+    line-height: 40px;    
+}
+
+.inactive
+{
+    color:#fff; 
+    line-height: 40px;   
+}
+/*dashboard*/
+div.card.stats a {  
+color:white;
+text-decoration: none!important;
+}
+
+div.card,div.card a{
+    cursor:pointer;
+    text-decoration: none!important;
+}
+
+div.stats.span{
+
+    text-decoration: none!important;
+
+}
+
+
+
+div.stats:hover a,  div.stats:hover, div.stats:hover span,div.stats span:hover{
+    background-color: #3a032e!important;
+    text-decoration: none!important;
+    color:yellow!important;
+    cursor: pointer; 
+    transform: translateY(-10px);
+}
+
+
+
+

@@ -1,0 +1,46 @@
+2021-03-03 10:41:32 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'visitor_managemrnt_system'
+2021-03-03 10:46:03 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'visitor_managemrnt_system'
+2021-03-03 10:46:40 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'visitor_managemrnt_system'
+2021-03-03 10:48:03 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'visitor_management_system'
+2021-03-03 10:48:19 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'visitor_management_system'
+2021-03-03 10:49:38 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'visitor_management_system'
+2021-03-03 10:52:00 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'visitor_management_system'
+2021-03-03 10:55:10 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'visitor_management_system'
+2021-03-03 10:56:59 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'visitor_management_system'
+2021-03-03 11:00:55 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'visitor_management_system'
+2021-03-06 04:16:58 AM Connection, PDO: could not find driver
+2021-03-23 08:30:10 PM Connection, PDO: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2021-03-23 08:31:40 PM Connection, PDO: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2021-03-23 08:33:11 PM Connection, PDO: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2021-03-23 08:34:40 PM Connection, PDO: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2021-03-23 08:36:10 PM Connection, PDO: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2021-03-25 11:09:10 PM Connection, PDO: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2021-03-27 12:10:50 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'patient_management_system'
+2021-03-27 12:11:07 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'patient_management_system'
+2021-03-27 12:12:02 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'patient_management_system'
+2021-03-27 12:12:51 PM Connection, PDO: SQLSTATE[HY000] [1049] Unknown database 'patient_management_system'
+2021-04-10 01:24:58 AM Connection, PDO: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2021-04-15 09:22:53 AM Connection, PDO: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2021-04-19 01:44:12 PM Connection, PDO: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2021-04-19 01:45:18 PM Connection, PDO: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2021-04-19 01:45:31 PM Connection, PDO: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+2021-04-21 12:25:08 AM Connection, PDO: could not find driver
+2021-04-21 12:25:33 AM Connection, PDO: could not find driver
+2021-04-21 12:25:41 AM Connection, PDO: could not find driver
+2021-04-21 12:27:06 AM Connection, PDO: could not find driver
+2021-04-21 12:27:27 AM Connection, PDO: could not find driver
+2021-04-21 12:28:38 AM Connection, PDO: could not find driver
+2021-04-21 12:29:02 AM Connection, PDO: could not find driver
+2021-04-21 12:36:30 AM Connection, PDO: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
